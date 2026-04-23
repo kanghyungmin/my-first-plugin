@@ -1,0 +1,9 @@
+{
+  "name": "my-claude-plugin",
+  "description": "나의 첫 번째 Claude plugin",
+  "version": "1.0.0",
+  "author": {
+    "name": "Your Name"
+  },
+  "license": "MIT"
+}
